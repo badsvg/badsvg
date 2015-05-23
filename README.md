@@ -1,5 +1,5 @@
 # badsvg
 Demonstrating Bad .svg files on GitHub
-Take a look at Mr Zebra in this image below.
+Take a look at Mr Zebra in the image in our repository.
 Why not save his picture to your hard drive and then open up the SVG?
-![Zebra](zebra.svg)
+[Here](zebra.svg)
